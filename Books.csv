@@ -1,0 +1,31 @@
+,Unnamed: 0,id,book_id,isbn,authors,original_publication_year,title,average_rating,ratings_count,small_image_url
+0,0,1,2767052,439023483,Suzanne Collins,2008.0,"The Hunger Games (The Hunger Games, #1)",4.34,4780653,https://images.gr-assets.com/books/1447303603s/2767052.jpg
+1,1,2,3,439554934,"J.K. Rowling, Mary GrandPré",1997.0,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",4.44,4602479,https://images.gr-assets.com/books/1474154022s/3.jpg
+2,2,3,41865,316015849,Stephenie Meyer,2005.0,"Twilight (Twilight, #1)",3.57,3866839,https://images.gr-assets.com/books/1361039443s/41865.jpg
+3,3,4,2657,61120081,Harper Lee,1960.0,To Kill a Mockingbird,4.25,3198671,https://images.gr-assets.com/books/1361975680s/2657.jpg
+4,4,5,4671,743273567,F. Scott Fitzgerald,1925.0,The Great Gatsby,3.89,2683664,https://images.gr-assets.com/books/1490528560s/4671.jpg
+5,5,6,11870085,525478817,John Green,2012.0,The Fault in Our Stars,4.26,2346404,https://images.gr-assets.com/books/1360206420s/11870085.jpg
+6,6,7,5907,618260307,J.R.R. Tolkien,1937.0,The Hobbit,4.25,2071616,https://images.gr-assets.com/books/1372847500s/5907.jpg
+7,7,8,5107,316769177,J.D. Salinger,1951.0,The Catcher in the Rye,3.79,2044241,https://images.gr-assets.com/books/1398034300s/5107.jpg
+8,8,9,960,1416524797,Dan Brown,2000.0,"Angels & Demons  (Robert Langdon, #1)",3.85,2001311,https://images.gr-assets.com/books/1303390735s/960.jpg
+9,9,10,1885,679783261,Jane Austen,1813.0,Pride and Prejudice,4.24,2035490,https://images.gr-assets.com/books/1320399351s/1885.jpg
+10,10,11,77203,1594480001,Khaled Hosseini,2003.0,The Kite Runner,4.26,1813044,https://images.gr-assets.com/books/1484565687s/77203.jpg
+11,11,12,13335037,62024035,Veronica Roth,2011.0,"Divergent (Divergent, #1)",4.24,1903563,https://images.gr-assets.com/books/1328559506s/13335037.jpg
+12,12,13,5470,451524934,"George Orwell, Erich Fromm, Celâl Üster",1949.0,1984,4.14,1956832,https://images.gr-assets.com/books/1348990566s/5470.jpg
+13,13,14,7613,452284244,George Orwell,1945.0,Animal Farm,3.87,1881700,https://images.gr-assets.com/books/1424037542s/7613.jpg
+14,14,15,48855,553296981,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",1947.0,The Diary of a Young Girl,4.1,1972666,https://images.gr-assets.com/books/1358276407s/48855.jpg
+15,15,16,2429135,307269752,"Stieg Larsson, Reg Keeland",2005.0,"The Girl with the Dragon Tattoo (Millennium, #1)",4.11,1808403,https://images.gr-assets.com/books/1327868566s/2429135.jpg
+16,16,17,6148028,439023491,Suzanne Collins,2009.0,"Catching Fire (The Hunger Games, #2)",4.3,1831039,https://images.gr-assets.com/books/1358273780s/6148028.jpg
+17,17,18,5,043965548X,"J.K. Rowling, Mary GrandPré, Rufus Beck",1999.0,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",4.53,1832823,https://images.gr-assets.com/books/1499277281s/5.jpg
+18,18,19,34,618346252,J.R.R. Tolkien,1954.0,"The Fellowship of the Ring (The Lord of the Rings, #1)",4.34,1766803,https://images.gr-assets.com/books/1298411339s/34.jpg
+19,19,20,7260188,439023513,Suzanne Collins,2010.0,"Mockingjay (The Hunger Games, #3)",4.03,1719760,https://images.gr-assets.com/books/1358275419s/7260188.jpg
+20,20,21,2,439358078,"J.K. Rowling, Mary GrandPré",2003.0,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",4.46,1735368,https://images.gr-assets.com/books/1387141547s/2.jpg
+21,21,22,12232938,316166685,Alice Sebold,2002.0,The Lovely Bones,3.77,1605173,https://images.gr-assets.com/books/1457810586s/12232938.jpg
+22,22,23,15881,439064864,"J.K. Rowling, Mary GrandPré",1998.0,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",4.37,1779331,https://images.gr-assets.com/books/1474169725s/15881.jpg
+23,23,24,6,439139600,"J.K. Rowling, Mary GrandPré",2000.0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",4.53,1753043,https://images.gr-assets.com/books/1361482611s/6.jpg
+24,24,25,136251,545010225,"J.K. Rowling, Mary GrandPré",2007.0,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",4.61,1746574,https://images.gr-assets.com/books/1474171184s/136251.jpg
+25,25,26,968,307277674,Dan Brown,2003.0,"The Da Vinci Code (Robert Langdon, #2)",3.79,1447148,https://images.gr-assets.com/books/1303252999s/968.jpg
+26,26,27,1,439785960,"J.K. Rowling, Mary GrandPré",2005.0,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",4.54,1678823,https://images.gr-assets.com/books/1361039191s/1.jpg
+27,27,28,7624,140283331,William Golding,1954.0,Lord of the Flies,3.64,1605019,https://images.gr-assets.com/books/1327869409s/7624.jpg
+28,28,29,18135,743477111,"William Shakespeare, Robert           Jackson",1595.0,Romeo and Juliet,3.73,1628519,https://images.gr-assets.com/books/1327872146s/18135.jpg
+29,29,30,8442457,297859382,Gillian Flynn,2012.0,Gone Girl,4.03,512475,https://images.gr-assets.com/books/1339602131s/8442457.jpg
